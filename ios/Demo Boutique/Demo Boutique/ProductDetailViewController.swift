@@ -1,5 +1,5 @@
 import UIKit
-import OpenTelemetryApi
+import OpenTelemetry
 
 class ProductDetailViewController: UIViewController {
     @IBOutlet var productImage: UIImageView!
